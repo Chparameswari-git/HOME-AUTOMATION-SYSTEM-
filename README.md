@@ -30,4 +30,4 @@ Work with advanced microcontrollers, sensors, and communication protocols.
 Develop IoT solutions for automotive, healthcare, agriculture, and industrial automation.
 
 ## PROJECT PRESENTATION 
-[View / Download EMERTXE(1) PDF](./EMERTXE(1)%20.pdf)
+[View / Download EMERTXE(1) PDF](./EMERTXE(1).pdf)
